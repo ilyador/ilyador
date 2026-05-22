@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ilyador)
+
 # Hi, I'm Ilya
 
 I build local-first tools for agentic AI coding, AI-assisted workflows, and self-hosted model infrastructure.
